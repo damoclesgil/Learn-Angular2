@@ -12,8 +12,6 @@ https://www.angular.io QuickStart
 https://github.com/angular/quickstart
 -Angular CLI
 https://github.com/angular/angular-cli
--Starter Files
-https://github.com/DeborahK/Angular2-GettingStarted
 
 ##Visual Code Auto Save Config
 Open File > Preferences > Settings and paste the code:
