@@ -49,6 +49,8 @@ Ctrl + Alt + O -> Open in Browser
 
 Ctrl + B -> Hide Sidebar
 
-##Biblioteca Angular 2
+[More Shortcuts] (https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+##Library Angular 2
 
 https://www.npmjs.com/~angular
