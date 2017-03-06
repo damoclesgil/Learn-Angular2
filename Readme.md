@@ -15,7 +15,7 @@ https://github.com/angular/angular-cli
 
 ##Visual Code Auto Save Config
 Open File > Preferences > Settings and paste the code:
-``
+```
 {
     "files.exclude": {
         "**/.git": true,
@@ -24,6 +24,7 @@ Open File > Preferences > Settings and paste the code:
     // Control auto save
     "files.autoSave": "afterDelay"
 }
+```
 
 ###Visual Code - My Favorits Extensions
 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
