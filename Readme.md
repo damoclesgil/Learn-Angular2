@@ -10,7 +10,7 @@
 https://www.angular.io QuickStart
 - Download the results of tehse steps
 https://github.com/angular/quickstart
--Angular CLI
+- Angular CLI
 https://github.com/angular/angular-cli
 
 ##Visual Code Auto Save Config
