@@ -1,11 +1,11 @@
-#Getting Start
+# Getting Start
 
-##Setting up Or Environment
+## Setting up Or Environment
 - Install NodeJS: https://nodejs.org/en/
 - Install NPM(gerenciador de pacotes): https://docs.npmjs.com/cli/install
 - Install Visual Studio Code: https://code.visualstudio.com (Recommended)
 
-##Setting up an Angular 2 Application
+## Setting up an Angular 2 Application
 - Manually perform each step
 https://www.angular.io QuickStart
 - Download the results of tehse steps
@@ -13,7 +13,7 @@ https://github.com/angular/quickstart
 - Angular CLI
 https://github.com/angular/angular-cli
 
-##Visual Code Auto Save Config
+## Visual Code Auto Save Config
 Open File > Preferences > Settings and paste the code:
 ```
 {
@@ -26,7 +26,7 @@ Open File > Preferences > Settings and paste the code:
 }
 ```
 
-###Visual Code - My Favorits Extensions
+### Visual Code - My Favorits Extensions
 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 
 [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
@@ -43,7 +43,7 @@ Open File > Preferences > Settings and paste the code:
 
 [Auto File Name](https://marketplace.visualstudio.com/items?itemName=JerryHong.autofilename)
 
-##Shortcut
+## Shortcut
 Alt + Shif + F -> Ident
 
 Ctrl + Alt + O -> Open in Browser
@@ -52,6 +52,6 @@ Ctrl + B -> Hide Sidebar
 
 [More Shortcuts] (https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
-##Library Angular 2
+## Library Angular 2
 
 https://www.npmjs.com/~angular
