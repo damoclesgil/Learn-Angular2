@@ -1,0 +1,47 @@
+[
+    {
+        "productId": 1,
+        "productName": "Leite Condensado",
+        "productCode": "GDN-0011",
+        "amount": 4,
+        "description": "Descrição Leite Condensando.",
+        "price": 19.95,
+        "imageUrl": "http://www.taticobaratotododia.com.br/gyn/wp-content/uploads/2018/01/4-6.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "Milho",
+        "productCode": "GDN-0023",
+        "amount": 2,
+        "description": "Descrição",
+        "price": 32.99,
+        "imageUrl": "http://www.taticobaratotododia.com.br/gyn/wp-content/uploads/2018/01/1-5.jpg"
+    },
+    {
+        "productId": 5,
+        "productName": "Macarrão",
+        "productCode": "TBX-0048",
+        "amount": 3,
+        "description": "Descrição",
+        "price": 8.9,
+        "imageUrl": "http://www.taticobaratotododia.com.br/gyn/wp-content/uploads/2018/01/2-6.jpg"
+    },
+    {
+        "productId": 8,
+        "productName": "Perfume Ferrari Red",
+        "productCode": "TBX-0022",
+        "amount": 4,
+        "description": "Descrição",
+        "price": 11.55,
+        "imageUrl": "http://www.taticobaratotododia.com.br/gyn/wp-content/uploads/2018/01/13-7.jpg"
+    },
+    {
+        "productId": 10,
+        "productName": "Arroz Itajá",
+        "productCode": "GMG-0042",
+        "amount": 4,
+        "description": "Descrição",
+        "price": 35.95,
+        "imageUrl": "http://www.taticobaratotododia.com.br/gyn/wp-content/uploads/2018/01/9-4.jpg"
+    }
+]
