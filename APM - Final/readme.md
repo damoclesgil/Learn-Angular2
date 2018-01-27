@@ -7,3 +7,10 @@
 3) Type: `npm start`
     This launches the TypeScript compiler (tsc) to compile the application and wait for changes. 
     It also starts the lite-server and launches the browser to run the application.
+
+
+Authorization URL: https://zgcheckout.herokuapp.com/oauth/authorize
+
+Token URL: https://zgcheckout.herokuapp.com/oauth/token
+
+https://zgcheckout.herokuapp.com/oauth/k5D3wIPPO6dsW7ekfmxqDRxMUvBqI5
